@@ -1,5 +1,5 @@
-# RL-Maze
-the Reforcement Learning Algorithm used on a maze problem
+# Temporal-Gradient-Correction-in-RL
+the Reforcement Learning Algorithm used on a maze problem with Temporal-Gradient-Correction (TGC)
 
 ## 1.Intro
 This projects base on an environment such that an explorer try to find the key firstly then escape from a maze, and provides several RL algorithms in the algorithm folder like SARSA, Q-learning, Monte-Carlo, as well as some updated algorithms.
