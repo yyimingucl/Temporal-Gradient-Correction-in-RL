@@ -1,4 +1,4 @@
-# Temporal-Gradient-Correction-in-RL
+# Temporal Gradient Correction in RL
 the Reforcement Learning Algorithm used on a maze problem with Temporal-Gradient-Correction (TGC)
 
 ## 1.Intro
